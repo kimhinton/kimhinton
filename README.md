@@ -2,6 +2,8 @@
 
 Backend engineer building developer tools and automation. Working mostly in Python and TypeScript.
 
+> 1 person · Singapore · keystrum.app + endpulse · MIT
+
 ---
 
 ## Currently Building
