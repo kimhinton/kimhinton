@@ -68,4 +68,4 @@ A browser-based virtual guitar that maps your QWERTY keyboard to a 6-chord strum
 
 ---
 
-<sub>Open to collaboration on backend tooling, infrastructure, and occasional creative browser projects.</sub>
+<sub>Open to backend tooling collaborations. Currently most active in <a href="https://keystrum.app">keystrum.app</a> — design feedback or first contributions welcome (<a href="https://github.com/kimhinton/keystrum/issues">open an issue</a> or DM).</sub>
