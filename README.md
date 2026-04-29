@@ -53,9 +53,6 @@ A browser-based virtual guitar that maps your QWERTY keyboard to a 6-chord strum
 ## Related projects
 
 - [til](https://github.com/kimhinton/til) — Today I Learned: daily dev notes across Python, Go, JavaScript, Docker, databases, and more.
-- [awesome-devops](https://github.com/kimhinton/awesome-devops) — Fork of the community-curated DevOps resource list.
-- [awesome-cli-apps](https://github.com/kimhinton/awesome-cli-apps) — Fork of the community-curated CLI applications list.
-- [awesome-webaudio](https://github.com/kimhinton/awesome-webaudio) — Fork of the community-curated Web Audio resource list.
 
 ---
 
