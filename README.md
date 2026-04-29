@@ -1,6 +1,6 @@
 # Kim M. Hinton
 
-Backend engineer building developer tools and automation. Working mostly in Python and TypeScript. Based in Seoul.
+Backend engineer building developer tools and automation. Working mostly in Python and TypeScript.
 
 ---
 
@@ -54,8 +54,8 @@ A browser-based virtual guitar that maps your QWERTY keyboard to a 6-chord strum
 
 - [til](https://github.com/kimhinton/til) — Today I Learned: daily dev notes across Python, Go, JavaScript, Docker, databases, and more.
 - [awesome-devops](https://github.com/kimhinton/awesome-devops) — Fork of the community-curated DevOps resource list.
-- [awesome-python](https://github.com/kimhinton/awesome-python) — Fork of the community-curated Python resource list.
 - [awesome-cli-apps](https://github.com/kimhinton/awesome-cli-apps) — Fork of the community-curated CLI applications list.
+- [awesome-webaudio](https://github.com/kimhinton/awesome-webaudio) — Fork of the community-curated Web Audio resource list.
 
 ---
 
